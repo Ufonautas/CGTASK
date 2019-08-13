@@ -1,0 +1,2 @@
+<h1>Dear user,</h1>
+<p>We're informing you, that your subscription of "{{$planName}}" has just expired. If you would like to extend your subscription time please click <a href="http://cgtask.work/viewproduct/{{$data['prodID']}}">Here</a></p>
